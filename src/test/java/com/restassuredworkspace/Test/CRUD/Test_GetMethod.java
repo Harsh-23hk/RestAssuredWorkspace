@@ -1,7 +1,7 @@
 package com.restassuredworkspace.Test.CRUD;
 
 
-import com.restassuredworkspace.Test.EndPoints.APIConstant;
+import com.restassuredworkspace.EndPoints.APIConstant;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
