@@ -15,8 +15,7 @@ public class OAuth {
         request.baseUri("https://api-m.sandbox.paypal.com")
                 .basePath("/v1/oauth2/token");
 
-        String client_Id = "AUXp0L9IVHrkyaoMcq0WQkrVBt-XC4N4PtTXMMRiXCnttvM1tG9yLU8pQoAynLpXT7VYXVKPYyBgSjtD";
-        String client_secret = "EAMxqnyL9IF4iYFj-25Yrf4tZ3EMoc6giruFlPnJYSVO4HLWTiQ18sw03YlGqNSoFqmOsmLgW4tszs-n";
+
         request.auth().preemptive().basic(client_Id, client_secret)
                 .param("grant_type", "client_credentials");
 

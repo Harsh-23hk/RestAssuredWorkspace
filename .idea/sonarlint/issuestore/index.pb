@@ -64,3 +64,7 @@ o
 ?src/test/java/com/restassuredworkspace/Test/Json/JsonArray.java,e\9\e971134c4de111be3f4bfa5a19c6b3347e868df9
 
 Osrc/test/java/com/restassuredworkspace/Test/Json/JsonObjectUsingJacksonAPI.java,c\9\c93dbeeb400faecd931676b989f0625173c890ef
+x
+Hsrc/test/java/com/restassuredworkspace/Test/FileUpload/FileUploadIT.java,f\4\f4ae5f87b7f250938b26398f91257459b5103373
+u
+Esrc/test/java/com/restassuredworkspace/Test/OwnApi/OwnApiTesting.java,7\1\71f2af8821c0cee1cc10eb6ca21de64e29270f4e
