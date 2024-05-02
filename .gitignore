@@ -8,8 +8,8 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
-report
-.idea
+!**report
+!**.idea
 *.iws
 *.iml
 *.ipr

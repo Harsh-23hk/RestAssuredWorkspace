@@ -12,8 +12,8 @@ public class OAuth {
     public void oauth() {
 
         RequestSpecification request = RestAssured.given();
-        request.baseUri("https://api-m.sandbox.paypal.com")
-                .basePath("/v1/oauth2/token");
+//        request.baseUri("https://api-m.sandbox.paypal.com")
+//                .basePath("/v1/oauth2/token");
 
 
         request.auth().preemptive().basic(client_Id, client_secret)
