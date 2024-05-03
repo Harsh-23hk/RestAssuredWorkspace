@@ -30,7 +30,7 @@ public class OwnApiTesting {
     }
 
 
-     @Test
+    @Test
     public void createUser() {
 
         JSONObject userdata = new JSONObject();
@@ -46,6 +46,39 @@ public class OwnApiTesting {
         response.prettyPrint();
         response.then().statusCode(Matchers
                 .equalTo(201));
+
+    }
+
+    @Test
+    public void updateUser() {
+
+        JSONObject userdata = new JSONObject();
+        userdata.put("name", "Saurabh");
+        userdata.put("age", 19);
+
+        Response response = RestAssured
+                .given()
+                .contentType("application/json")
+                .body(userdata.toString())
+                .put("6be5");
+
+         response.prettyPrint();
+
+         response.then().statusCode(200);
+
+
+    }
+
+    @Test
+    public void deleteUser() {
+
+        Response response = RestAssured
+                .given()
+                .contentType("application/json")
+                .delete("6be5");
+        response.prettyPrint();
+        response.then().statusCode(200);
+
 
     }
 
