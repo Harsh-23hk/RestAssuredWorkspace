@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a0e75d-d13a-42ca-86c9-f9c50e36aadf" name="Changes" comment="added">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9592fc32fb3a59ab02d6c0e7c0028cc05ffc918" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9592fc32fb3a59ab02d6c0e7c0028cc05ffc918" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;MERGED&quot;,
+      &quot;assignee&quot;: &quot;Harsh-23hk&quot;
+    },
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;Harsh-23hk&quot;,
+      &quot;author&quot;: &quot;Harsh-23hk&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Harsh-23hk/RestAssuredWorkspace.git&quot;,
+    &quot;accountId&quot;: &quot;b8297537-b70b-4518-a4ac-868481d9be9f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/restassuredworkspace/Test/FileUpload/FileUploadIT.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2fWGNWuEueKEUSttUzxBpZsVLdb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.RestAssuredWorkspace [clean,test].executor": "Run",
+    "Maven.RestAssuredWorkspace [clean].executor": "Run",
+    "Maven.RestAssuredWorkspace [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.RestAssuredWorkspace [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TestNG.Authincation.getWeather.executor": "Run",
+    "TestNG.BasicAuth.executor": "Run",
+    "TestNG.CheckValidResponse.executor": "Run",
+    "TestNG.DemoIgnoreProperties.executor": "Run",
+    "TestNG.DemoJsonInclude.executor": "Run",
+    "TestNG.DemoJsonInclude.testMethod.executor": "Run",
+    "TestNG.DemoResponseSpecBuild.executor": "Run",
+    "TestNG.DemoResponseSpecBuild.getAllBookingIds.executor": "Run",
+    "TestNG.DemoResponseSpecBuild.getBookingByFirstName.executor": "Run",
+    "TestNG.DemoTest.NonBDDStyleTest2.executor": "Run",
+    "TestNG.DemoTest.executor": "Run",
+    "TestNG.DemoTest.getTest.executor": "Run",
+    "TestNG.DemoTest.test2 (1).executor": "Debug",
+    "TestNG.DemoTest.test2.executor": "Run",
+    "TestNG.DeserializationIT.executor": "Run",
+    "TestNG.DeserializeSerialize.executor": "Run",
+    "TestNG.DigestAuth.executor": "Run",
+    "TestNG.FileUploadIT.executor": "Run",
+    "TestNG.JsonArray.executor": "Run",
+    "TestNG.JsonArrayObject.executor": "Run",
+    "TestNG.JsonIgnore.testMethod.executor": "Run",
+    "TestNG.JsonObjectUsingJacksonAPI.executor": "Run",
+    "TestNG.JsonObjectUsingMap.executor": "Run",
+    "TestNG.JsonValidation.executor": "Run",
+    "TestNG.JsonValidationSchema.executor": "Run",
+    "TestNG.OAuth.executor": "Run",
+    "TestNG.OwnApiTesting.deleteUser.executor": "Run",
+    "TestNG.OwnApiTesting.executor": "Run",
+    "TestNG.OwnApiTesting.updateUser.executor": "Run",
+    "TestNG.PostTestClass.executor": "Run",
+    "TestNG.QueryParameter.executor": "Run",
+    "TestNG.QueryRequestIT.executor": "Run",
+    "TestNG.ResponseSpecBuild.executor": "Run",
+    "TestNG.TestDeleteMethod.executor": "Run",
+    "TestNG.Test_PutMethod.executor": "Run",
+    "TestNG.ValidateResponseHeader.executor": "Run",
+    "TestNG.ValidateXMLResponse.executor": "Run",
+    "TestNG.ValidationWithoutRest.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Harsh/IdeaProjects/RestAssuredWorkspace/src/test/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harsh\IdeaProjects\RestAssuredWorkspace\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Harsh\IdeaProjects\RestAssuredWorkspace\src\test\java\com\restassuredworkspace\Test" />
+      <recent name="C:\Users\Harsh\IdeaProjects\RestAssuredWorkspace\src\test\java\com\restassuredworkspace" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DemoIgnoreProperties">
+    <configuration name="DemoIgnoreProperties" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredWorkspace" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassuredworkspace.Test.Session26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.restassuredworkspace.Test.Session26" />
+      <option name="MAIN_CLASS_NAME" value="com.restassuredworkspace.Test.Session26.DemoIgnoreProperties" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoResponseSpecBuild.getAllBookingIds" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassuredworkspace.Test.ResponseBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassuredworkspace.Test.ResponseBuilder" />
+      <option name="MAIN_CLASS_NAME" value="com.restassuredworkspace.Test.ResponseBuilder.DemoResponseSpecBuild" />
+      <option name="METHOD_NAME" value="getAllBookingIds" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoResponseSpecBuild.getBookingByFirstName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassuredworkspace.Test.ResponseBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassuredworkspace.Test.ResponseBuilder" />
+      <option name="MAIN_CLASS_NAME" value="com.restassuredworkspace.Test.ResponseBuilder.DemoResponseSpecBuild" />
+      <option name="METHOD_NAME" value="getBookingByFirstName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonValidationSchema" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassuredworkspace.Test.JsonValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassuredworkspace.Test.JsonValidation" />
+      <option name="MAIN_CLASS_NAME" value="com.restassuredworkspace.Test.JsonValidation.JsonValidationSchema" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationWithoutRest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassuredworkspace.Test.JsonValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassuredworkspace.Test.JsonValidation" />
+      <option name="MAIN_CLASS_NAME" value="com.restassuredworkspace.Test.JsonValidation.ValidationWithoutRest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.DemoIgnoreProperties" />
+      <item itemvalue="TestNG.DemoResponseSpecBuild.getAllBookingIds" />
+      <item itemvalue="TestNG.DemoResponseSpecBuild.getBookingByFirstName" />
+      <item itemvalue="TestNG.JsonValidationSchema" />
+      <item itemvalue="TestNG.ValidationWithoutRest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DemoIgnoreProperties" />
+        <item itemvalue="TestNG.DemoResponseSpecBuild.getBookingByFirstName" />
+        <item itemvalue="TestNG.ValidationWithoutRest" />
+        <item itemvalue="TestNG.JsonValidationSchema" />
+        <item itemvalue="TestNG.DemoResponseSpecBuild.getAllBookingIds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a0e75d-d13a-42ca-86c9-f9c50e36aadf" name="Changes" comment="" />
+      <created>1713909383368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713909383368</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Session06">
+      <option name="closed" value="true" />
+      <created>1714164554122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714164554122</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Session06">
+      <option name="closed" value="true" />
+      <created>1714165439921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714165439921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added Authincation">
+      <option name="closed" value="true" />
+      <created>1714245597304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714245597304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Session06" />
+    <MESSAGE value="added Authincation" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Authincation" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RestAssuredWorkspace$DemoIgnoreProperties.ic" NAME="DemoIgnoreProperties Coverage Results" MODIFIED="1714774485410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.restassuredworkspace.Test.Session26.*</FILTER>
+    </SUITE>
+  </component>
+</project>
